@@ -1,2 +1,3 @@
 # TaskFleet
-Plataforma de Gestão de Tarefas com Execução Distribuída
+
+This is the backend project for task management
